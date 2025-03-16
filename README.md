@@ -1,2 +1,3 @@
-# Stockflow
-Mini-projet de gestion de stock avec Flask
+git init
+git remote add origin https://github.com/tonprofil/StockFlow.git
+git branch -M main
